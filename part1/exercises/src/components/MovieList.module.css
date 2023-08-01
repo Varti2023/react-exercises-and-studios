@@ -2,9 +2,12 @@
    color: blue;
    text-align: left;
    font-size: large;
+   background-color: bisque;
+   height: 30px;
 }
 
 .movieHeading {
    color: black;
    text-align: left;
 }
+

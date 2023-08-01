@@ -3,7 +3,7 @@ export default function ChoresList () {
    
    const chore = ["Cleaning Rooms","Preparing Dinner","Gardening"];
    return (
-      <div>
+      <div className= {styles.choresBorder}>
        <p className = {styles.choresHeading}>Chores List</p>
          <ol>
             <li className= {styles.choresText}>{chore[0]}</li>

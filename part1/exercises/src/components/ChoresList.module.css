@@ -1,3 +1,13 @@
+.choresBorder{
+   width: 200px;
+   height: 200px;
+   border: 1px solid #363933;
+   border-style: double;
+   border-width: thick;
+   border-radius: 7px / 7px;
+   padding: 20px;
+   text-align: center;
+ }
 .choresText {
    color: rgb(26, 102, 96);
    text-align: left;
@@ -10,4 +20,5 @@
    text-align: left;
    text-decoration: underline;
    font-size: large;
+   font-weight: 700;
 }

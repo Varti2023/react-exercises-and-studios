@@ -6,12 +6,14 @@ export default function BookList() {
 
    return (
       <div>
-         <h3>{pageTitle}</h3>
-         <img src={book1} alt="The Invisible Hour" />
-         &nbsp; &nbsp;
-         <img src={book2} alt="The Little Village of Book Lovers" />
-         &nbsp;  &nbsp;   
-         <img src={book3} alt="The Six: The Untold Story of the First Women Astronauts" />
+         
+            <h3>{pageTitle}</h3>
+            <img src={book1} alt="The Invisible Hour" />
+            &nbsp; &nbsp;
+            <img src={book2} alt="The Little Village of Book Lovers" />
+            &nbsp;  &nbsp;   
+            <img src={book3} alt="The Six: The Untold Story of the First Women Astronauts" />
+         
       </div>      
    );
 }

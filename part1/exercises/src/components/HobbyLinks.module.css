@@ -1,0 +1,16 @@
+.hobbyLinksBorder{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #363933;
+    border-style: double;
+    border-width: thick;
+    border-radius: 7px / 7px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(202, 234, 109);
+  }
+
+.hobbyLinksHeading{
+   color: black;
+  
+}
