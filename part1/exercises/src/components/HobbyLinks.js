@@ -10,7 +10,7 @@ export default function HobbyLinks () {
         <div className = {classes.hobbyLinksBorder}>
             <h3 className= {classes.hobbyLinksHeading}>{pageTitle}</h3>
             <a href  = {hobbyLinks[0]}>Doodle Art</a><br></br>
-            <a href = {hobbyLinks[1]}>Chrochet Art</a><br></br>
+            <a href = {hobbyLinks[1]}>Chrochet</a><br></br>
             <a href = {hobbyLinks[2]}>Cooking</a>
         </div>
     );
