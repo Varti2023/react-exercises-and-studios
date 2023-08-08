@@ -1,5 +1,12 @@
+import Button from './Button';
+import "./styling.css";
 function ClickedButton() {
-  return;
+  function handleClick(){
+     alert('Pin is removed from the board')
+  }
+      return(
+        <button id="clickedButton" onClick={handleClick}>Saved</button>
+      );
 }
 
 export default ClickedButton;
