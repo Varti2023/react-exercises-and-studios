@@ -1,11 +1,11 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://sallysbakingaddiction.com/master-muffin-recipe/";
+   let authorPhoto = "https://sallysbakingaddiction.com/wp-content/uploads/2023/08/headshot-sally-green-shirt-500x500.jpg";
+   let authorName = "Sally McKenney";
 
    return (
       <div>
-         <img src={authorPhoto} alt = "" style={{objectFit: "contain", borderRadius: "50%"}} />
+         <img src={authorPhoto} alt = "Master Muffin Recipe" style={{objectFit: "contain", borderRadius: "50%"}} />
          <div>
             <h3>{authorName}</h3>
             <a href={authorLink}></a> 
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["all-purpose flour","baking powder","ground cinnamon","unsalted butter","brown sugar"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://sallysbakingaddiction.com/wp-content/uploads/2017/04/master-muffin-recipe.jpg" alt="Master Muffin Recipe" className="imageUpdates" width="30%"/>
    );
 }
 
