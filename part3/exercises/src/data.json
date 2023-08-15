@@ -1,0 +1,34 @@
+ 
+   {
+     "projects" : [
+    {
+        "name": "Honey Bee",
+        "designer": "Studio Milanina",
+        "photoUrl": "https://isv.prod.lovecrafts.co/v1/images/0505618236689768c00c2acbc7fd627d/bb2767eb-526b-4598-9a20-ba72fe234159.jpg/0/-/832x832",
+        "alt": "Crochet Honey Bee"
+    },
+    {
+        "name": "Jellyfish",
+        "designer": "Carolyne Brodie ",
+        "photoUrl": "https://isv.prod.lovecrafts.co/v1/images/cd27c8bfa0bdf199c2c6068047cdd317/59c70232-043d-4df7-9afe-796f28ffd065.jpg/0/-/832x832",
+        "alt": "Crochet Jellyfish"
+    },
+    {
+        "name": "Around the World Blanket",
+        "designer": "Tatsiana",
+        "photoUrl": "https://3.bp.blogspot.com/-8lHxa3tikRc/WyJa8-0TdBI/AAAAAAAAHCg/zENAWMtqkb8PfTlVwhBJAiYgS9PlKvUAACLcBGAs/s1280/Around%2Bthe%2BWorld%2BBlanket%2Bby%2BLilla%2BBjorn%2BCrochet_5.jpg",
+        "alt": "Around the World Blanket"
+    },
+    {
+        "name": "Floral crochet blanket patterns",
+        "designer": "Ellen Christian",
+        "photoUrl": "https://confessionsofanover-workedmom.com/wp-content/uploads/2012/11/crochet-floral-blanket-patterns-idea.jpg",
+        "alt": "Floral crochet blanket patterns"
+    },
+    {
+        "name": "Urban nomad BOHO bag",
+        "designer": "Jess Coppom",
+        "photoUrl": "https://makeanddocrew.com/wp-content/uploads/2017/03/boho-bag-free-crochet-pattern-36.jpg",
+        "alt": "Crochet Urban Nomad BOHO bag"
+    }]}
+
